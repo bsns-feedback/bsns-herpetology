@@ -1,0 +1,59 @@
+Report for Institution Code BSNS, Resource bsns_herpetology
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 34
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 3
+	Date: 2018-04-12 ; Times: 10
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-23 ; Times: 3
+	Date: 2018-04-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "indigo snake" ; Times: 3
+	Query: "class:amphibia stateprovince:&#34;south carolina&#34; (amphibia AND &#34;south carolina&#34; AND Greenville)" ; Times: 2
+	Query: "class:Amphibia county:&#34;Greenville&#34; (Amphibia AND &#34;South Carolina&#34; AND Greenville)" ; Times: 1
+	Query: "county:&#34;Greenville&#34; (Amphibia AND &#34;South Carolina&#34; AND Greenville)" ; Times: 1
+	Query: "class:Amphibia county:&#34;Greenville&#34; (amphibia AND &#34;South Carolina&#34;)" ; Times: 1
+	Query: "vntype:specimen class:Amphibia county:&#34;Greenville&#34; (Amphibia AND &#34;South Carolina&#34; AND Greenville) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 4
+	Query: "class:amphibia catalognumber:A 280 (&#34;south carolina&#34;)" ; Times: 1
+	Query: "specificepithet:Couperi genus:Drymarchon" ; Times: 12
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1359 download events in this period)
+Total number of records downloaded: 12
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "timber rattlesnake" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+
+
+End of report.
