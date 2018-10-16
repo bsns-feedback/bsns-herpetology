@@ -1,0 +1,52 @@
+Report for Institution Code BSNS, Resource bsns_herpetology
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 43
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 2
+	Date: 2018-03-17 ; Times: 7
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 3
+	Date: 2018-03-27 ; Times: 3
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Coniophanes specificepithet:imperialis" ; Times: 5
+	Query: "ring necked snake" ; Times: 1
+	Query: "Drymarchon stateprovince:&#34;Texas&#34;" ; Times: 7
+	Query: "Sistrurus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Gambelia specificepithet:sila" ; Times: 2
+	Query: "genus:Drymarchon specificepithet:melanurus" ; Times: 6
+	Query: "crotaphytus collaris Maricopa" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;new york&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1284 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus lepidus" ; Times: 2
+
+
+End of report.
