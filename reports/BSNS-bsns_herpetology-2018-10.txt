@@ -1,0 +1,64 @@
+Report for Institution Code BSNS, Resource bsns_herpetology
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 105
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "imitator salamander" ; Times: 2
+	Query: "institutioncode:BSNS" ; Times: 1
+	Query: "genus:crotalus county:&#34;okeechobee&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "eastern coral snake" ; Times: 1
+	Query: "genus:micrurus county:&#34;marion&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1300 download events in this period)
+Total number of records downloaded: 116
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 3
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-08 ; Times: 8
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coniophanes imperialis" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "genus:Cnemidophorus" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 2
+	Query: "Desmognathus wrighti" ; Times: 1
+	Query: "Desmognathus carolinensis" ; Times: 4
+	Query: "Drymarchon melanurus" ; Times: 1
+	Query: "imitator salamander" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "nerodia" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Anolis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
