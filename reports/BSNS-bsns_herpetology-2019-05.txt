@@ -1,0 +1,52 @@
+Report for Institution Code BSNS, Resource bsns_herpetology
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 19
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Germany ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-11 ; Times: 3
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-23 ; Times: 4
+	Date: 2019-05-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "blunt nosed" ; Times: 1
+	Query: "Drymarchon melanurus erebennus" ; Times: 1
+	Query: "Drymarchon corais couperi" ; Times: 2
+	Query: "Drymarchon melanurus melanurus" ; Times: 1
+	Query: "Timber rattlesnake" ; Times: 3
+	Query: "blunt nosed leopard lizard" ; Times: 1
+	Query: "Eastern indigo snake" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 940 download events in this period)
+Total number of records downloaded: 5
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "genus:gambelia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+
+
+End of report.
