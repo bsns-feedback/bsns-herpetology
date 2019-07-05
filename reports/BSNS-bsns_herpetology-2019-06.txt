@@ -1,0 +1,50 @@
+Report for Institution Code BSNS, Resource bsns_herpetology
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-11 ; Times: 3
+	Date: 2019-06-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gambelia specificepithet:sila" ; Times: 2
+	Query: "genus:Drymarchon specificepithet:melanurus" ; Times: 1
+	Query: "genus:Coniophanes specificepithet:imperialis" ; Times: 1
+	Query: "genus:Chamaeleo specificepithet:gracilis" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1182 download events in this period)
+Total number of records downloaded: 105
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-11 ; Times: 1
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
