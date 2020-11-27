@@ -1,0 +1,45 @@
+Report for Institution Code BSNS, Resource bsns_herpetology
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 5
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eastern diamondback rattlesnake" ; Times: 1
+	Query: "coniophanes imperialis texas" ; Times: 1
+	Query: "sila Gambelia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1584 download events in this period)
+Total number of records downloaded: 6
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambelia sila" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "coniophanes imperialis texas" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+
+
+End of report.
