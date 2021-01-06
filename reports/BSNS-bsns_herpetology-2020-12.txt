@@ -1,0 +1,65 @@
+Report for Institution Code BSNS, Resource bsns_herpetology
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 25
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-20 ; Times: 3
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-10 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-04 ; Times: 3
+	Date: 2020-12-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:melanurus genus:Drymarchon" ; Times: 3
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34; institutioncode:BSNS" ; Times: 1
+	Query: "Prairie rattlesnake" ; Times: 1
+	Query: "Plethodon cinerus" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Perkins&#34; stateprovince:&#34;South Dakota&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Plethodon Cinerus" ; Times: 1
+	Query: "genus:Coniophanes county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 705 download events in this period)
+Total number of records downloaded: 160
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-01 ; Times: 2
+	Date: 2020-12-02 ; Times: 17
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Iguana iguana" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Viperidae" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 8
+	Query: "plethodon glutinosus" ; Times: 2
+	Query: "desmognathus quadramaculatus" ; Times: 2
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "Plethodon Cinereus" ; Times: 1
+	Query: "Plethodon cinerus" ; Times: 1
+	Query: "plethodon yonahlossee" ; Times: 1
+
+
+End of report.
